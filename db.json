@@ -1,0 +1,60 @@
+{
+  "seller": [
+    {
+      "id": "9cf1",
+      "name": "Sarang Shivay",
+      "email": "sara@demo.com",
+      "password": "sara123"
+    },
+    {
+      "id": "cf84",
+      "name": "Yash Nigam",
+      "email": "Yash@demo.com",
+      "password": "yash123"
+    },
+    {
+      "id": "1d1a",
+      "name": "Pranshu",
+      "password": "pranshu123",
+      "email": "pranshu@demo.com"
+    },
+    {
+      "id": "0ce3",
+      "name": "Utkarsh",
+      "password": "utkarsh123",
+      "email": "utkarsh@demo.com"
+    },
+    {
+      "id": "b6f9",
+      "name": "Abhinandan",
+      "password": "abhinandan123",
+      "email": "abhinandan@demo.com"
+    },
+    {
+      "id": "3809",
+      "name": "Abhinav",
+      "password": "abhinav123",
+      "email": "abhinav@demo.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "Orient Fan",
+      "price": "2680",
+      "color": "Cream",
+      "category": "Fan",
+      "description": "High Quality Product",
+      "image": "https://shop.orientelectric.com/cdn/shop/products/wendy-with-remote-bee-star-rated-ceiling-fan-orient-electric-4.png?v=1707905886",
+      "id": "4a9c"
+    },
+    {
+      "name": "Penta",
+      "price": "26",
+      "color": "white",
+      "category": "Switch",
+      "description": "Good Switch",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/l48s9zk0/electrical-wall-plate/p/m/h/1-2-gangs-penta-8-modular-anchor-original-imagf6f4zhgeg5bg.jpeg?q=20&crop=false",
+      "id": "f10f"
+    }
+  ]
+}
